@@ -13,4 +13,5 @@ Hi, I'm Jose!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Rodriguez-22&theme=synthwave&layout=compact)
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jose-Rodriguez-22)](https://github.com/Jose-Rodriguez-22/github-readme-stats)
