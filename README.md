@@ -1,6 +1,22 @@
-![image](https://user-images.githubusercontent.com/96680710/219524615-c2d17834-8ebb-4b04-9db8-a8bf68257018.png)
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+</div>
 
-![image](https://img.shields.io/badge/Lang-%22Python%22-brightgreen)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jose-m-rodriguez-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/3dcb9f05-a24c-4ac7-8013-fd3d14d033d1/public_url">
+    <img src="https://img.shields.io/badge/Certificate-TECH%20I.S.-green" alt="certificate"/>
+  </a>
+   <img src="https://komarev.com/ghpvc/?username=Jose-Rodriguez-22&style=flat-square&color=blue" alt=""/>
+</div>
+  
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  
 - 🔭 Hi, I'm Jose Rodriguez and I am very passionate with all Web Dev related topics and future technology
 - 🌱 Currently learning more advanced python programming projects: Calculator, Scheduler, etc.
 - 🤔 I am always and constantly learning and refining my skills: Python, JS, React, and SQL 
