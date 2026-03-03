@@ -10,12 +10,9 @@
 </div>
   
 <h1>
-  hey there
+  Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-   
----
-<h1 align="center">Jose M. Rodriguez</h1>
+ I'm Jose M. Rodriguez
 <h3 align="center">Simulation-Informed Aerospace Design Engineer</h3>
 
 <p align="center">
