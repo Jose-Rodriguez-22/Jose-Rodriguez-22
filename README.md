@@ -103,7 +103,7 @@ bracket, AM repair is proposed to extend its lifespan by filling the cracks with
 
 Additive manufacturing is a method of modern engineering allowing the possibility to extrude material on the spot without requiring a large manufacturing site. In this particular example, the project’s objective is to simulate a more industrial version of three-dimensional extrusion using a high-powered beam on a metal substrate and the physics behind the applications parameters. The simulation will include convection, a heat transfer process that occurs due to the movement of fluids like air or water. It is driven by temperature differences across the fluid and is the dominant form of heat transfer in liquids and gases. Moving heat flux is seeing how heat moves along the direction of the beam and the temperature throughout the substrate.       
 
-🔗 [View Project Report](YOUR_LINK_HERE)
+🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Thin-Wall)
 ---
 ### 🔥 My Stats:
 
