@@ -94,7 +94,7 @@ bracket used in pump applications. The bracket experiences 1000 N forces on each
 bolt locations, leading to stress concentration and cracks over time. Instead of replacing the
 bracket, AM repair is proposed to extend its lifespan by filling the cracks with layered material.
 
-🔗 [View Project Report](YOUR_LINK_HERE)
+🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM)
 
 ---
 
