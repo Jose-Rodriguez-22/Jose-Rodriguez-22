@@ -91,14 +91,17 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
 <strong>Load Case Modeling</strong> • 
 </p>
 
-### Manufacturing & Fabrication
-- Wire Arc Additive Manufacturing (WAAM)
-- LPBF Metal Printing
-- 3D Printing
-- Design for Manufacturing (DFM)
-- GD&T Fundamentals
+<h2 align="center">Manufacturing & Fabrication</h2>
+<p align="center">
+  <strong> Wire Arc Additive Manufacturing (WAAM)</strong> • 
+<strong>LPBF Metal Printing</strong> • 
+<strong>3D Printing</strong> • 
+<strong>Design for Manufacturing (DFM)</strong> • 
+   <strong>GD&T Fundamentals</strong>  
+</p>
 
 ---
+
 ## 📂 Featured Engineering Projects
 ### 1️⃣ Fused Deposition Modeling Rapid Prototyping Application of Additive Manufacturing
 
