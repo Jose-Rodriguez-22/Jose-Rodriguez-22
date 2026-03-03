@@ -42,14 +42,37 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
 </div>
   
 ---   
-## 🛠 Engineering Toolchain
+<h2 align="center">🛠 CAD & Design Software</h2>
 
-### CAD & Design
-- PTC Creo <div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/PTC_Creo_logo.svg/500px-PTC_Creo_logo.svg.png?_=20210507110131" title="CREO" alt="CREO" width="80" height="80"/>&nbsp; </div>
-- SolidWorks <div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-960px-SolidWorks_logo.tiff.png?_=20160417053209" title="Solidworks" alt="Solidworks" width="80" height="80"/>&nbsp; </div>
-- Autodesk Inventor <div> <img src="https://cadtalk.com/wp-content/uploads/2024/10/Autodesk-Inventor-Logo-Vector.svg-.png" title="Autodesk" alt="Autodesk" width="80" height="80"/>&nbsp; </div>
-- AutoCAD <div> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/AutoCAD-logo.png" title="AutoCAD" alt="AutoCAD" width="80" height="80"/>&nbsp; </div>
-- FreeCAD <div> <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2Ft8%2FN2%2FTJQW95QJQX49-180x180.PNG&w=128&q=75" title="FreeCAD" alt="FreeCAD" width="80" height="80"/>&nbsp; </div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/PTC_Creo_logo.svg/500px-PTC_Creo_logo.svg.png?_=20210507110131" width="80"/><br/>
+      <strong>PTC Creo</strong>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-960px-SolidWorks_logo.tiff.png?_=20160417053209" width="80"/><br/>
+      <strong>SolidWorks</strong>
+    </td>
+    <td align="center">
+      <img src="https://cadtalk.com/wp-content/uploads/2024/10/Autodesk-Inventor-Logo-Vector.svg-.png" width="80"/><br/>
+      <strong>Autodesk Inventor</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/AutoCAD-logo.png" width="80"/><br/>
+      <strong>AutoCAD</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2Ft8%2FN2%2FTJQW95QJQX49-180x180.PNG&w=128&q=75" width="80"/><br/>
+      <strong>FreeCAD</strong>
+    </td>
+    <td align="center">
+      <!-- empty cell to keep alignment -->
+    </td>
+  </tr>
+</table>
 
 ### Simulation & Analysis
 - ANSYS Static Structural
