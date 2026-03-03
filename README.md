@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/jose-m-rodriguez-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.credly.com/badges/3dcb9f05-a24c-4ac7-8013-fd3d14d033d1/public_url">
-    <img src="https://img.shields.io/badge/Certificate-TECH%20I.S.-green" alt="certificate"/>
-  </a>
    <img src="https://komarev.com/ghpvc/?username=Jose-Rodriguez-22&style=flat-square&color=blue" alt=""/>
 </div>
   
@@ -18,24 +15,58 @@
 </h1>
    
 ---
-   
- ### 👨‍💻 About Me:
-   - 🔭 Hi, I'm Jose Rodriguez. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
+<h1 align="center">Jose M. Rodriguez</h1>
+<h3 align="center">Simulation-Informed Aerospace Design Engineer</h3>
 
-- 🌱 Currently learning more advanced python programming projects: Calculator, Scheduler, etc.
-- 🤔 I am always and constantly learning and refining my skills: Python, JS, React, and SQL 
-- 📫 Here is my contact information: 
-         -  📧rodriguezmanueljose1998@gmail.com
-         - [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-rodriguez-/)
+<p align="center">
+Research Assistant | Additive Manufacturing | Parametric CAD | FEA
+</p>
+
+---
    
+## 🚀 About Me
+   - 🔭 _I am an engineering student and Research Assistant at **The University of Texas at Dallas** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ Aerospace structural design -
+ Wire Arc Additive Manufacturing (WAAM) -
+ Laser Powder Bed Fusion (LPBF) -
+ Simulation-driven optimization (ANSYS) -
+ Parametric CAD systems (Creo, SolidWorks, Inventor)
+
+My work focuses on combining **design, simulation, and manufacturing intelligence** to produce lightweight, structurally efficient mechanical systems!
+
+## 📬 Contact
+- 📫 Here is my contact information: 
+         -  📧jmr180004@utdallas.edu
+         - [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-rodriguez-/) 
    
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
 </div>
+  
+---   
+## 🛠 Engineering Toolchain
+
+### CAD & Design
+- PTC Creo <div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/PTC_Creo_logo.svg/500px-PTC_Creo_logo.svg.png?_=20210507110131" title="CREO" alt="CREO" width="80" height="80"/>&nbsp; </div>
+- SolidWorks <div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-960px-SolidWorks_logo.tiff.png?_=20160417053209" title="Solidworks" alt="Solidworks" width="80" height="80"/>&nbsp; </div>
+- Autodesk Inventor <div> <img src="https://cadtalk.com/wp-content/uploads/2024/10/Autodesk-Inventor-Logo-Vector.svg-.png" title="Autodesk" alt="Autodesk" width="80" height="80"/>&nbsp; </div>
+- AutoCAD <div> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/AutoCAD-logo.png" title="AutoCAD" alt="AutoCAD" width="80" height="80"/>&nbsp; </div>
+- FreeCAD <div> <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2Ft8%2FN2%2FTJQW95QJQX49-180x180.PNG&w=128&q=75" title="FreeCAD" alt="FreeCAD" width="80" height="80"/>&nbsp; </div>
+
+### Simulation & Analysis
+- ANSYS Static Structural
+- Stress & Displacement Analysis
+- Factor of Safety Evaluation
+- Load Case Modeling
+
+### Manufacturing & Fabrication
+- Wire Arc Additive Manufacturing (WAAM)
+- LPBF Metal Printing
+- 3D Printing
+- Design for Manufacturing (DFM)
+- GD&T Fundamentals
 
 ---
-  
-   
 ### 🔥 My Stats:
 
 <div id="stats"
@@ -59,44 +90,38 @@
  
 
 ---
+## 📂 Featured Engineering Projects
 
+### 1️⃣ Aerospace Structural Bracket Optimization
+- Baseline structural design
+- ANSYS load case analysis
+- Stress concentration reduction
+- Mass reduction optimization
+- Safety factor comparison
 
-### 🛠️ FrontEnd:
-
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  
-</div>
+🔗 [View Project Report](YOUR_LINK_HERE)
 
 ---
 
+### 2️⃣ Parametric Lead Screw Actuator Assembly
+- Fully constrained mechanical assembly
+- Motion study
+- Configurable design parameters
+- Engineering drawing package
 
-### 🛠️ BackEnd:
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-
----
-
-
-### 🛠️ Tools:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BootStrap" **alt="Bootstrap" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Aodbexd" **alt="Adobexd" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" **alt="heroku" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-</div>
+🔗 [View Project Report](YOUR_LINK_HERE)
 
 ---
 
+### 3️⃣ Additive Manufacturing Lightweight Mount
+- Weight-optimized geometry
+- AM-friendly load path design
+- Structural validation
+- Manufacturing considerations included
+
+🔗 [View Project Report](YOUR_LINK_HERE)
+
+---
 
 ### ✍️ Blog Posts :
 
