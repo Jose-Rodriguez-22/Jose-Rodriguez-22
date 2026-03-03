@@ -69,16 +69,27 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
       <strong>FreeCAD</strong>
     </td>
     <td align="center">
-      <!-- empty cell to keep alignment -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_on_White_Background_JPG.jpg" width="80"/><br/>
+      <strong>Ansys</strong>
     </td>
   </tr>
 </table>
 
-### Simulation & Analysis
-- ANSYS Static Structural
-- Stress & Displacement Analysis
-- Factor of Safety Evaluation
-- Load Case Modeling
+<p align="center">
+  <strong>PTC Creo</strong> • 
+  <strong>SolidWorks</strong> • 
+  <strong>Autodesk Inventor</strong> • 
+  <strong>AutoCAD</strong> • 
+  <strong>FreeCAD</strong>
+</p>
+
+<h2 align="center">Simulation & Analysis</h2>
+<p align="center">
+  <strong>ANSYS Static Structural</strong> • 
+<strong>Stress & Displacement Analysis</strong> • 
+<strong>Factor of Safety Evaluation</strong> • 
+<strong>Load Case Modeling</strong> • 
+</p>
 
 ### Manufacturing & Fabrication
 - Wire Arc Additive Manufacturing (WAAM)
