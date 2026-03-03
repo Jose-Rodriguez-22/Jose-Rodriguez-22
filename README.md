@@ -35,7 +35,8 @@ Research Assistant | Additive Manufacturing | Parametric CAD | FEA
 My work focuses on combining **design, simulation, and manufacturing intelligence** to produce lightweight, structurally efficient mechanical systems!
 
 ## 📬 Contact
-- 📫 Here is my contact information: 
+📍 Dallas, Texas  
+📫 Here is my contact information: 
          -  📧jmr180004@utdallas.edu
          - [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-rodriguez-/) 
    
@@ -67,6 +68,46 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
 - GD&T Fundamentals
 
 ---
+## 📂 Featured Engineering Projects
+### 1️⃣ Fused Deposition Modeling Rapid Prototyping Application of Additive Manufacturing
+
+<img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/acb11e81-ffba-42e8-b1c9-a445d3ec2d73" />
+
+Fused Deposition Modeling (FDM) is an extended branch of additive manufacturing 
+process under material extrusion [1]. This technique involves the layer-by-layer deposition of 
+material to create intricate and finer components. In this project explores the design and analysis 
+of a turbinelike structure using FDM. The focus is on understanding the transient thermal and 
+static behavior of the design through FEA simulations employing tools like ANSYS.
+
+🔗 [View Project Report](YOUR_LINK_HERE)
+
+---
+
+### 2️⃣ On-site repair application of additive manufacturing 
+<img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/d5593221-7b01-448e-8eaf-631c72d9a498" />
+
+On-site repair of additive manufacturing highlights the objective of how to remove a
+manufacturing site while keeping the manufacturing method and tools in place. This creates a
+novel way of construction more mobile and compact giving way to greater interest in being cost-
+friendly and efficient. Current challenges in additive manufacturing technology requires a site for
+material to be sent for repair, from delivery to labor to material cost, leaving to large industries to
+afford.
+The project focuses on using wire-based additive manufacturing (AM) to repair a steel
+bracket used in pump applications. The bracket experiences 1000 N forces on each face at its
+bolt locations, leading to stress concentration and cracks over time. Instead of replacing the
+bracket, AM repair is proposed to extend its lifespan by filling the cracks with layered material.
+
+🔗 [View Project Report](YOUR_LINK_HERE)
+
+---
+
+### 3️⃣ Thin Wall 
+<img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/c21ff9e5-9942-4ecb-9ad4-9cbc73b843dd" />
+
+Additive manufacturing is a method of modern engineering allowing the possibility to extrude material on the spot without requiring a large manufacturing site. In this particular example, the project’s objective is to simulate a more industrial version of three-dimensional extrusion using a high-powered beam on a metal substrate and the physics behind the applications parameters. The simulation will include convection, a heat transfer process that occurs due to the movement of fluids like air or water. It is driven by temperature differences across the fluid and is the dominant form of heat transfer in liquids and gases. Moving heat flux is seeing how heat moves along the direction of the beam and the temperature throughout the substrate.       
+
+🔗 [View Project Report](YOUR_LINK_HERE)
+---
 ### 🔥 My Stats:
 
 <div id="stats"
@@ -87,41 +128,6 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
      <!--END_SECTION:waka-->
    </a>
 </div>
- 
-
----
-## 📂 Featured Engineering Projects
-
-### 1️⃣ Aerospace Structural Bracket Optimization
-- Baseline structural design
-- ANSYS load case analysis
-- Stress concentration reduction
-- Mass reduction optimization
-- Safety factor comparison
-
-🔗 [View Project Report](YOUR_LINK_HERE)
-
----
-
-### 2️⃣ Parametric Lead Screw Actuator Assembly
-- Fully constrained mechanical assembly
-- Motion study
-- Configurable design parameters
-- Engineering drawing package
-
-🔗 [View Project Report](YOUR_LINK_HERE)
-
----
-
-### 3️⃣ Additive Manufacturing Lightweight Mount
-- Weight-optimized geometry
-- AM-friendly load path design
-- Structural validation
-- Manufacturing considerations included
-
-🔗 [View Project Report](YOUR_LINK_HERE)
-
----
 
 ### ✍️ Blog Posts :
 
