@@ -79,7 +79,7 @@ material to create intricate and finer components. In this project explores the 
 of a turbinelike structure using FDM. The focus is on understanding the transient thermal and 
 static behavior of the design through FEA simulations employing tools like ANSYS.
 
-🔗 [View Project Report](YOUR_LINK_HERE)
+🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing/tree/main)
 
 ---
 
