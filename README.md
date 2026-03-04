@@ -118,7 +118,7 @@ static behavior of the design through FEA simulations employing tools like ANSYS
 ---
 ### Cam-Follower Mechanism
 
-<img width="682" height="410" alt="image" src="https://utdallas.box.com/s/qbimed8yzauuiyblthefz7uapme6aog0" />
+<img width="250" height="300" alt="image" src="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/exploded_view/exploded_view.png" />
 
 This project demonstrates the modeling and analysis of a cam–follower mechanism designed to convert rotational motion into linear valve actuation. The system consists of a camshaft, pushrod, rocker arm, valve, and spring. The camshaft acts as the input component, where its rotating profile drives the pushrod upward as it contacts the cam surface. The pushrod transfers motion to the rocker arm, which in turn actuates the valve.
 
