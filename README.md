@@ -122,13 +122,9 @@ static behavior of the design through FEA simulations employing tools like ANSYS
 
 This project demonstrates the modeling and analysis of a cam–follower mechanism designed to convert rotational motion into linear valve actuation. The system consists of a camshaft, pushrod, rocker arm, valve, and spring. The camshaft acts as the input component, where its rotating profile drives the pushrod upward as it contacts the cam surface. The pushrod transfers motion to the rocker arm, which in turn actuates the valve.
 
-The model was developed in PTC Creo and assembled using kinematic constraints including pin joints and slider connections to replicate realistic mechanical motion. A cam-follower contact pair was defined between the camshaft and follower to simulate the interaction between the rotating cam profile and the translating pushrod. A spring element was included in the valve mechanism to maintain contact between components and ensure proper return motion during the cycle.
-
-Dynamic mechanism analysis was performed to observe the motion behavior of the valve system during cam rotation. The simulation tracked the valve position, velocity, acceleration, and reaction forces throughout the cycle, allowing evaluation of how the cam profile influences valve actuation timing and force transmission.
-
 This project demonstrates skills in parametric CAD modeling, mechanism definition, motion simulation, and mechanical system visualization using PTC Creo. The assembly includes a detailed part drawing for the camshaft as well as an exploded view of the mechanism to clearly illustrate component relationships and assembly structure.
 
-🔗 [View Project Report](LINK_TO_PROJECT_REPO_OR_REPORT)
+🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism)
 
 ---
 
