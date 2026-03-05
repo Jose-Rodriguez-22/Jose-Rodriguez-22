@@ -128,6 +128,36 @@ This project demonstrates skills in parametric CAD modeling, mechanism definitio
 
 ---
 
+### 3️⃣ Spur Gear Train Mechanism
+
+<img width="250" height="300" alt="image" src="https://github.com/Jose-Rodriguez-22/Simple_Spur_Gear_Train/blob/main/assembly/gear_assembly.png" />
+
+This project demonstrates the modeling and kinematic simulation of a simple spur gear train used to transmit rotational motion between multiple gears. The assembly consists of a central sun gear driving two planet gears while meshing with a stationary internal ring gear. By applying a constant angular velocity motor to the sun gear, the system illustrates how rotational power is transferred through gear interactions and constrained mechanical motion.
+
+Kinematic analysis was performed to evaluate the angular velocity relationship between gears and verify the expected gear ratio behavior. The resulting velocity plots confirm that meshing external gears rotate in opposite directions while maintaining a constant speed ratio determined by their pitch diameters.
+
+This project highlights skills in parametric CAD assembly modeling, gear constraint definition, and mechanism simulation using PTC Creo.
+
+🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Simple_Spur_Gear_Train)
+
+---
+
+### 5️⃣ Universal Joint Kinematic Analysis
+
+<img width="250" height="300" alt="image" src="https://github.com/Jose-Rodriguez-22/Universal_Joint_Kinematics/blob/main/assembly/universal_joint_assembly.png" />
+
+This project investigates the kinematic behavior of a universal joint used to transmit rotational motion between misaligned shafts. The assembly consists of two shafts connected through a cross-link connector that allows rotational power transmission while accommodating angular misalignment between the shafts.
+
+A kinematic analysis was conducted using PTC Creo Mechanism to study how shaft misalignment affects output angular velocity and acceleration. By applying a constant angular velocity motor to the input shaft and varying the misalignment angle, the simulation reveals the characteristic fluctuation in output speed that occurs in single universal joints.
+
+Analytical equations describing the relationship between input and output shaft motion were derived and compared with simulation results generated in Creo. The results confirm that increasing the misalignment angle amplifies velocity and acceleration fluctuations within the mechanism.
+
+This project demonstrates the integration of CAD modeling, mechanism simulation, and analytical verification to analyze mechanical motion systems.
+
+🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Universal_Joint_Kinematics)
+
+---
+
 ### 3️⃣ On-site repair application of additive manufacturing 
 <img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/d5593221-7b01-448e-8eaf-631c72d9a498" />
 
