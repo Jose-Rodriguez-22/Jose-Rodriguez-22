@@ -118,7 +118,7 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
 <td align="center">
 
 <b>Spur Gear Train</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/Simple_Spur_Gear_Train">
+<a href="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism">
 <img src="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/gear_motion.gif" width="220">
 </a>
 
@@ -127,7 +127,7 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
 <td align="center">
 
 <b>Universal Joint Kinematics</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/Universal_Joint_Kinematics">
+<a href="https://github.com/Jose-Rodriguez-22/Universal-Joint">
 <img src="https://github.com/Jose-Rodriguez-22/Slider-Crank/blob/main/slider_crank%20motion.gif" width="220">
 </a>
 
