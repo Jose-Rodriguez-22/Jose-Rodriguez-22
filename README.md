@@ -9,9 +9,10 @@
   </a>
    <img src="https://komarev.com/ghpvc/?username=Jose-Rodriguez-22&style=flat-square&color=blue" alt=""/>
 </div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jose-Rodriguez-22/profile1/main/github-header-banner.png" width="100%">
+</p>
 <h1>
-   
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  I'm Jose M. Rodriguez
