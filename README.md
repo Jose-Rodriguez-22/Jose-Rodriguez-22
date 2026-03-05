@@ -1,22 +1,25 @@
-<div id="header" align="center">
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk1N2JqbXk4MGx5d2tzejBkMXpxbDFzd3R4MDkzeDd3emQ3cm85aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qolHY2Zs0Py7huS7Hh/giphy.gif" width="600"
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jose-Rodriguez-22/profile1/main/github-header-banner.png" width="100%">
+</p>
 
 <div id="badges">
+   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30px"/>
   <a href="https://www.linkedin.com/in/jose-m-rodriguez-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <img src="https://komarev.com/ghpvc/?username=Jose-Rodriguez-22&style=flat-square&color=blue" alt=""/>
+      </p>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jose-Rodriguez-22/profile1/main/github-header-banner.png" width="100%">
-</p>
+
+
+<div id="header" align="center">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk1N2JqbXk4MGx5d2tzejBkMXpxbDFzd3R4MDkzeDd3emQ3cm85aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qolHY2Zs0Py7huS7Hh/giphy.gif" width="600"
+</div>
+   
 <h1>
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- I'm Jose M. Rodriguez
-<h3 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing</h3>
+   
+<h2 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing</h2>
 
 <p align="center">
 Research Assistant | Additive Manufacturing | Parametric CAD | FEA
