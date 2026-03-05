@@ -1,19 +1,21 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk1N2JqbXk4MGx5d2tzejBkMXpxbDFzd3R4MDkzeDd3emQ3cm85aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qolHY2Zs0Py7huS7Hh/giphy.gif" width="600"
 </div>
 
 <div id="badges">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30px"/>
   <a href="https://www.linkedin.com/in/jose-m-rodriguez-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <img src="https://komarev.com/ghpvc/?username=Jose-Rodriguez-22&style=flat-square&color=blue" alt=""/>
 </div>
-  
+
 <h1>
+   
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  I'm Jose M. Rodriguez
-<h3 align="center">Simulation-Informed Aerospace Design Engineer</h3>
+<h3 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing</h3>
 
 <p align="center">
 Research Assistant | Additive Manufacturing | Parametric CAD | FEA
@@ -29,7 +31,7 @@ Research Assistant | Additive Manufacturing | Parametric CAD | FEA
  Simulation-driven optimization (ANSYS) -
  Parametric CAD systems (Creo, SolidWorks, Inventor)
 
-My work focuses on combining **design, simulation, and manufacturing intelligence** to produce lightweight, structurally efficient mechanical systems!
+My portfolio demonstrates experience in parametric CAD modeling, mechanism design, motion simulation, and engineering analysis using PTC Creo and ANSYS.
 
 ## 📬 Contact
 📍 Dallas, Texas  
@@ -38,7 +40,7 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
          - [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-rodriguez-/) 
    
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200"/>
 </div>
   
 ---   
@@ -147,7 +149,7 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
 
 <td align="center">
 
-<b>Rapid-Prototyping-CAD-fins</b><br>
+<b>Additive Manufacturing Heat Sink</b><br>
 <a href="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing">
 <img src="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing/blob/main/mesh.png" width="220">
 </a>
