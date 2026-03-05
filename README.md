@@ -116,7 +116,7 @@ static behavior of the design through FEA simulations employing tools like ANSYS
 🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing/tree/main)
 
 ---
-### Cam-Follower Mechanism
+### 2️⃣ Cam-Follower Mechanism
 
 <img width="250" height="300" alt="image" src="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/exploded_view/exploded_view.png" />
 
@@ -128,7 +128,7 @@ This project demonstrates skills in parametric CAD modeling, mechanism definitio
 
 ---
 
-### 2️⃣ On-site repair application of additive manufacturing 
+### 3️⃣ On-site repair application of additive manufacturing 
 <img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/d5593221-7b01-448e-8eaf-631c72d9a498" />
 
 On-site repair of additive manufacturing highlights the objective of how to remove a
@@ -146,12 +146,13 @@ bracket, AM repair is proposed to extend its lifespan by filling the cracks with
 
 ---
 
-### 3️⃣ Thin Wall 
+### 4️⃣ Thin Wall 
 <img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/c21ff9e5-9942-4ecb-9ad4-9cbc73b843dd" />
 
 Additive manufacturing is a method of modern engineering allowing the possibility to extrude material on the spot without requiring a large manufacturing site. In this particular example, the project’s objective is to simulate a more industrial version of three-dimensional extrusion using a high-powered beam on a metal substrate and the physics behind the applications parameters. The simulation will include convection, a heat transfer process that occurs due to the movement of fluids like air or water. It is driven by temperature differences across the fluid and is the dominant form of heat transfer in liquids and gases. Moving heat flux is seeing how heat moves along the direction of the beam and the temperature throughout the substrate.       
 
 🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Thin-Wall)
+
 ---
 ### 🔥 My Stats:
 
