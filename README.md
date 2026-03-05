@@ -102,88 +102,77 @@ My work focuses on combining **design, simulation, and manufacturing intelligenc
 
 ---
 
-## 📂 Featured Engineering Projects
-### 1️⃣ Fused Deposition Modeling Rapid Prototyping Application of Additive Manufacturing
+## Featured Mechanical Design Projects
 
-<img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/acb11e81-ffba-42e8-b1c9-a445d3ec2d73" />
+<table>
+<tr>
+<td align="center">
 
-Fused Deposition Modeling (FDM) is an extended branch of additive manufacturing 
-process under material extrusion [1]. This technique involves the layer-by-layer deposition of 
-material to create intricate and finer components. In this project explores the design and analysis 
-of a turbinelike structure using FDM. The focus is on understanding the transient thermal and 
-static behavior of the design through FEA simulations employing tools like ANSYS.
+<b>Cam-Follower Mechanism</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism">
+<img src="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/motion/partial_shaft_motion.gif" width="220">
+</a>
 
-🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing/tree/main)
+</td>
 
----
-### 2️⃣ Cam-Follower Mechanism
+<td align="center">
 
-<img width="250" height="300" alt="image" src="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/exploded_view/exploded_view.png" />
+<b>Spur Gear Train</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Simple_Spur_Gear_Train">
+<img src="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/gear_motion.gif" width="220">
+</a>
 
-This project demonstrates the modeling and analysis of a cam–follower mechanism designed to convert rotational motion into linear valve actuation. The system consists of a camshaft, pushrod, rocker arm, valve, and spring. The camshaft acts as the input component, where its rotating profile drives the pushrod upward as it contacts the cam surface. The pushrod transfers motion to the rocker arm, which in turn actuates the valve.
+</td>
 
-This project demonstrates skills in parametric CAD modeling, mechanism definition, motion simulation, and mechanical system visualization using PTC Creo. The assembly includes a detailed part drawing for the camshaft as well as an exploded view of the mechanism to clearly illustrate component relationships and assembly structure.
+<td align="center">
 
-🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism)
+<b>Universal Joint Kinematics</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Universal_Joint_Kinematics">
+<img src="https://github.com/Jose-Rodriguez-22/Slider-Crank/blob/main/slider_crank%20motion.gif" width="220">
+</a>
 
----
+</td>
 
-### 3️⃣ Spur Gear Train Mechanism
+<td align="center">
 
-<img width="250" height="300" alt="image" src="https://github.com/Jose-Rodriguez-22/Simple_Spur_Gear_Train/blob/main/assembly/gear_assembly.png" />
+<b>Nutcracker-Mechanism-Assembly</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Nutcracker-Mechanism-Assembly">
+<img src="https://github.com/Jose-Rodriguez-22/Nutcracker-Mechanism-Assembly/blob/main/nutcracker_motion.gif" width="220">
+</a>
 
-This project demonstrates the modeling and kinematic simulation of a simple spur gear train used to transmit rotational motion between multiple gears. The assembly consists of a central sun gear driving two planet gears while meshing with a stationary internal ring gear. By applying a constant angular velocity motor to the sun gear, the system illustrates how rotational power is transferred through gear interactions and constrained mechanical motion.
+</td>
+</tr>
 
-Kinematic analysis was performed to evaluate the angular velocity relationship between gears and verify the expected gear ratio behavior. The resulting velocity plots confirm that meshing external gears rotate in opposite directions while maintaining a constant speed ratio determined by their pitch diameters.
+<tr>
 
-This project highlights skills in parametric CAD assembly modeling, gear constraint definition, and mechanism simulation using PTC Creo.
+<td align="center">
 
-🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Simple_Spur_Gear_Train)
+<b>Rapid-Prototyping-CAD-fins</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing">
+<img src="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing/blob/main/mesh.png" width="220">
+</a>
 
----
+</td>
+<td align="center">
 
-### 5️⃣ Universal Joint Kinematic Analysis
+<b>On-site-Manufacturing Bracket</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM">
+<img src="https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM/blob/main/images/bracket%20AM/total%20deformation%20side.png" width="220">
+</a>
 
-<img width="250" height="300" alt="image" src="https://github.com/Jose-Rodriguez-22/Universal_Joint_Kinematics/blob/main/assembly/universal_joint_assembly.png" />
+</td>
+<td align="center">
 
-This project investigates the kinematic behavior of a universal joint used to transmit rotational motion between misaligned shafts. The assembly consists of two shafts connected through a cross-link connector that allows rotational power transmission while accommodating angular misalignment between the shafts.
+<b>Thin-Wall-simulation</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Thin-Wall">
+<img src="https://github.com/Jose-Rodriguez-22/Thin-Wall/blob/main/images/mesh.png" width="220">
+</a>
 
-A kinematic analysis was conducted using PTC Creo Mechanism to study how shaft misalignment affects output angular velocity and acceleration. By applying a constant angular velocity motor to the input shaft and varying the misalignment angle, the simulation reveals the characteristic fluctuation in output speed that occurs in single universal joints.
+</td>
 
-Analytical equations describing the relationship between input and output shaft motion were derived and compared with simulation results generated in Creo. The results confirm that increasing the misalignment angle amplifies velocity and acceleration fluctuations within the mechanism.
+</tr>
+</table>
 
-This project demonstrates the integration of CAD modeling, mechanism simulation, and analytical verification to analyze mechanical motion systems.
-
-🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Universal_Joint_Kinematics)
-
----
-
-### 3️⃣ On-site repair application of additive manufacturing 
-<img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/d5593221-7b01-448e-8eaf-631c72d9a498" />
-
-On-site repair of additive manufacturing highlights the objective of how to remove a
-manufacturing site while keeping the manufacturing method and tools in place. This creates a
-novel way of construction more mobile and compact giving way to greater interest in being cost-
-friendly and efficient. Current challenges in additive manufacturing technology requires a site for
-material to be sent for repair, from delivery to labor to material cost, leaving to large industries to
-afford.
-The project focuses on using wire-based additive manufacturing (AM) to repair a steel
-bracket used in pump applications. The bracket experiences 1000 N forces on each face at its
-bolt locations, leading to stress concentration and cracks over time. Instead of replacing the
-bracket, AM repair is proposed to extend its lifespan by filling the cracks with layered material.
-
-🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM)
-
----
-
-### 4️⃣ Thin Wall 
-<img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/c21ff9e5-9942-4ecb-9ad4-9cbc73b843dd" />
-
-Additive manufacturing is a method of modern engineering allowing the possibility to extrude material on the spot without requiring a large manufacturing site. In this particular example, the project’s objective is to simulate a more industrial version of three-dimensional extrusion using a high-powered beam on a metal substrate and the physics behind the applications parameters. The simulation will include convection, a heat transfer process that occurs due to the movement of fluids like air or water. It is driven by temperature differences across the fluid and is the dominant form of heat transfer in liquids and gases. Moving heat flux is seeing how heat moves along the direction of the beam and the temperature throughout the substrate.       
-
-🔗 [View Project Report](https://github.com/Jose-Rodriguez-22/Thin-Wall)
-
----
 ### 🔥 My Stats:
 
 <div id="stats"
