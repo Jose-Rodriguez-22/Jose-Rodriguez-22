@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/Jose-Rodriguez-22/profile1/main/github-header-banner.png" width="100%">
 </p>
 
